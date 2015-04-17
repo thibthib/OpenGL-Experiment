@@ -1,0 +1,20 @@
+Liste des raccourcis clavier : 
+
+& ou 1 : Affichage de la scène 1.
+é ou 2 : Affichage de la scène 2.
+"  ou 3 : Affichage de la scène 3.
+
+z ou Z : Zoom sur la scène.
+d ou D : Dé-zoom sur la scène.
+r ou R : Remise à zéro de la position caméra et du zoom.
+
+f ou F : Affiche/cache le brouillard.
+
+l ou L : Affiche/cache des lignes de déplacement dans les scènes concernées (2 et 3).
+t ou T : Lance/Arrête l'animation (fait tourner les objets) pour les scènes concernées (2 et 3).
+
+i ou I : Rends la lumière immobile par rapport aux mouvements de caméra.
+m ou M : Rends la lumière mobile par rapport aux mouvements de caméra.
+Touches haut, bas, droite et gauche : Mouvement de la source lumineuse.
+
+q ou Q ou Echap : Quitte le programme.
