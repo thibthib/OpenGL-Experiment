@@ -2,6 +2,8 @@
 
 Here is a quick test of OpenGL I did while I was in school.
 
+![OpenGL Experiment](https://www.dropbox.com/s/xgbaqnyqnnt1dlo/OpenGL.gif?dl=1)
+
 ### Shortcuts
 
 `1` : Shows the cubes and sphere scene  
